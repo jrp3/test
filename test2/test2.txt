@@ -2,3 +2,5 @@ test2
 adding some more test
 editing commit
 editing more in test file
+added something on local config
+added some more on local config
